@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @DevTechJr
-- 👀 I’m interested in Web Development & Programming!
-- 🌱 I’m currently learning Javascript, & MERN Stack
-- 💞️ I’m looking to collaborate on cool projects!
-- 📫 You can contact me at devtechjr@gmail.com!
+- 👀 There's nothing else here, folks!
 
 <!---
 DevTechJr/DevTechJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
