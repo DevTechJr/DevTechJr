@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevTechJr
-- 👀 There's nothing else here, folks!
+- Aspiring teen looking to making the world a better place with technology.
 
 <!---
 DevTechJr/DevTechJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
