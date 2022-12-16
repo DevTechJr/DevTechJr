@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://anidev.vercel.app/" target="blank">
+<!-- <h1 align="center">Hi 👋, I'm <a href="https://anidev.vercel.app/" target="blank">
 Anirudh</a></h1>
 <h3 align="center">An aspiring developer from Toronto, Canada</h3>
 
@@ -34,3 +34,4 @@ Anirudh</a></h1>
      
 
 </p>
+ -->
