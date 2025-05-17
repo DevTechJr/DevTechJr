@@ -1,5 +1,5 @@
 # 💫 About Me:
-anirudh.<br><br>grade 10 ib.<br><br>building the tech of tomorrow, today.<br><br>#thaggedhele<br>
+anirudh.<br><br>uw ce '30.<br><br>building the tech of today, tomorrow.<br><br>#thaggedhele<br>
 
 
 ## 🌐 Socials:
