@@ -1,5 +1,5 @@
 # 💫 About Me:
-anirudh.<br><br>uw ce '30.<br><br>building the tech of tomorrow, today.<br>
+anirudh, uw ce '30.<br><br>vibe coding the tech of tomorrow, today :D<br>
 
 
 ## 🌐 Socials:
